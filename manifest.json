@@ -1,8 +1,8 @@
 "manifest_version": 2,
-"name": "My Extension",
+"name": "SJW-detector",
 "version": "0.1",
 "default_locale": "en",
-"description": "A simple app that detects Neo-Marxist buzzwords on webpages",
+"description": "Detect radical leftist buzzwords on any given page",
 "author": "atourianski"
 
 content_scripts": [
