@@ -4,7 +4,7 @@ A simple Chrome extension that detects radical leftist buzzwords on any given pa
 
 __To get the Chrome extension__
 
-git clone https://github.com/atourianski/SJW-detector.git
+Git clone https://github.com/atourianski/SJW-detector.git
 
 Go to chrome://extensions/
 
