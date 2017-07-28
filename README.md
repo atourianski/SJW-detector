@@ -2,20 +2,19 @@
 
 A simple Chrome extension that detects radical leftist buzzwords on any given page
 
-__To get the Chrome extension__
+**To get the Chrome extension**
 
-Git clone https://github.com/atourianski/SJW-detector.git
+`git clone https://github.com/atourianski/SJW-detector.git`
 
-Go to chrome://extensions/
+- go to `chrome://extensions/` in the URL of the browser
+- click "Developer mode"
+- click "Load Unpacked Extension"
+- find and select the SJW-detector directory
+- a yellow buttow should appear on at the top right of the page
 
-Click Load Unpacked Extension..
+**To uninstall the Chrome Extension**
 
-Find and select the SJW-detector repo
-
-__To uninstall the Chrome Extension__
-
-Go to chrome://extensions/
-
-Click on the garbage can icon beside SJW-detector
+- go to `chrome://extensions/`
+- click on the garbage can icon beside SJW-detector
 
 

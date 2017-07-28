@@ -139,8 +139,3 @@ opened.document.write("<html><head><title>SJW buzzwords</title><link rel='styles
 readyFormat
  + "<div class='container-fluid'><div class='text-center'><button type='button' onclick='window.close()'> Close </button></div></div></body></html>");
 }
-
-
-
-
-

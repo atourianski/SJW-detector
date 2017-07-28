@@ -1,15 +1,12 @@
-"manifest_version": 2,
-"name": "SJW-detector",
-"version": "0.1",
-"default_locale": "en",
-"description": "Detect radical leftist buzzwords on any given page",
-"author": "atourianski"
+{
+	"manifest_version": 2,
+	"name": "SJW-detector",
+	"version": "0.1",
+	"description": "Detect radical leftist buzzwords on any given page",
+	"author": "atourianski",
 
-content_scripts": [
-  {
-    "matches": [
-      "<all_urls>"
-    ],
-    "js": ["app.js"]
-  }
-]
+	"content_scripts": [{
+		"matches": [ "<all_urls>" ],
+    		"js": ["app.js"]
+  	}]
+}
